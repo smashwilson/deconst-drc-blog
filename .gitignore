@@ -1,0 +1,5 @@
+.jekyll-assets-cache/
+.pygments-cache/
+.tweet-cache/
+
+_site/
