@@ -1,3 +1,4 @@
+.bundle/
 .jekyll-assets-cache/
 .pygments-cache/
 .tweet-cache/
